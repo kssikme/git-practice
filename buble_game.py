@@ -1,6 +1,8 @@
 import pygame
 import random
 
+## 게임 설정
+
 # pygame 초기화
 pygame.init()
 
